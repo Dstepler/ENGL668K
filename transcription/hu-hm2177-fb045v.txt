@@ -1,8 +1,8 @@
 Think not of gold or flattery vile
 He
-
-Thou art not... if a thing divine
-like thee, can die- thy funeral shrine
-Is thy mother's <del rend="strikethrough">heart</del> & mine
+<zone type="main">
+<line>Thou art not... if a thing divine</line>
+<line>like thee, can die- thy funeral shrine</line>
+,line>Is thy mother's <del rend="strikethrough">heart</del> & mine</line>
 
 z my twvLyxvwv L E I L 35
