@@ -1,14 +1,22 @@
-Originality does not consist 
-in moods, in deeds, or stories
-Or combinations of mind and
-Language different from those
-Which have gone before, it
-Does not consist only in living
-Or all in themes
-
-A melancholy gladness
-let me think that this low kind
-Of the living forgetting that things of sunny gap
-An unknown power they
-Debts their hues of saints may heap 
-A portion
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<sourceDoc>
+<zone><graphic url="https://raw.githubusercontent.com/Dstepler/ENGL668K/master/images/hu-hm2177-fb046v.jpg"/></zone>
+<zone type="main">
+<line>Originality does not consist</line> 
+<line><del rend="strikethrough">in moods, in deeds, or stories</del></line>
+<line>Or combinations of mind &</line>
+<line>Language different from those</line>
+<line><damage agent="faded"><unclear>Which</unclear></damage> have gone before, it</line>
+<line>Does not consist only <damage agent="inkblot><unclear>in living</unclear></damanage></line>
+<line>Or all in themes</line>
+</zone>
+<zone type="main" rotate="180">
+<line><del rend="strikethrough">A melancholy gladness</del></line>
+<line>let <damage agent="faded"><unclear>me think</unclear></damage> that this low <damage agent="faded"><unclear>kind</unclear></damage></line>
+<line>Of the <del rend="strikethrough>living</del> <del rend="strikethrough>forgetting</del> <add place="sublinear"><damage agent="faded"><unclear reason="illegible" extent="2" unit="words"></unclear></damage></add> that things of sunny gap</line>
+<line><del rend="strikethrough">An unknown power they</del></line>
+<line>Debts their hues of saints may heap</line> 
+<line>A portion</line>
+</zone>
+</sourceDOC>
+</TEI>
