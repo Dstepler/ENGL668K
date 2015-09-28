@@ -1,15 +1,10 @@
-<zone type="left_margin" rotate="90">
-<line>Think not of gold or flattery vile</line>
-<line>He</line>
-</zone>
-<zone type="main">
-<line>Thou art not... if a thing divine</line>
-<line>like thee, can die- thy funeral shrine</line>
-<line>Is thy mother's <del rend="strikethrough">heart</del> & mine</line>
-<add place="sublinear">grief</add>
-<add place="superlinear">heart</add>
-<space dim="vertical" unit="lines" extent="5">
-<line>μνημη των αγαθων αeι θαλης</line>
-<line><unclear reason="illegible">WILLIAM</unclear></line>
-</zone>
-</surface>
+Think not of gold or flattery vile
+He
+Thou art not... if a thing divine
+like thee, can die- thy funeral shrine
+                                heart
+Is thy mother's [strikethrough] heart [/strikethrough] & mine
+                                grief
+                                
+μνημη των αγαθων αeι θαλης
+WILLIAM
