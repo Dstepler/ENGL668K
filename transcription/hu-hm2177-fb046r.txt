@@ -1,7 +1,8 @@
 <line>With what <unclear reason="illegible" extent= "6" unit="char"></unclear>I may say</line>
-<line>Roma Roma Roma<line>
-none is come in a prime
-Thy took William there in where
+<line>Roma Roma Roma</line>
+<line>non e <unclear reason="illegible" extent= "5" unit="char"></unclear>come in a prima</line>
+<line>Thy took William</line>
+<line>there in where
 Some bright spirit lived & died
 That decaying life consume
 Which its his true majesty hid 
