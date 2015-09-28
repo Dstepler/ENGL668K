@@ -9,4 +9,7 @@
 <add place="sublinear">grief</add>
 <add place="superlinear">heart</add>
 <space dim="vertical" unit="lines" extent="5">
-z my twvLyxvwv L E I L 35
+<line>μνημη των αγαθων αeι θαλης</line>
+<line><unclear reason="illegible">WILLIAM</unclear></line>
+</zone>
+</surface>
