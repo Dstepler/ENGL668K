@@ -4,5 +4,18 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb045v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb045v.jpg"/>
-    
+<zone type="left_margin" rotate="90">
+<line>Think not of gold or flattery vile</line>
+<line>He</line>
+</zone>
+<zone type="main">
+<line>Thou art not... if a thing divine</line>
+<line>like thee, can die- thy funeral shrine</line>
+<line>Is thy mother's <del rend="strikethrough">heart</del> & mine</line>
+<add place="superlinear">heart</add>
+<add place="sublinear">grief</add>
+<space dim="vertical" unit="lines" extent="5"/>
+<line>μνημη των αγαθων αeι θαλης</line>
+<unclear reason="illegible">WILLIAM</unclear>
+</zone>
 </surface>
