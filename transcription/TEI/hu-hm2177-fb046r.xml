@@ -4,6 +4,7 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
+    <zone type="main">
     <line>With what<unclear reason="illegible" extent= "6" unit="char"></unclear>I may say</line>
  <line>Roma Roma Roma</line>
  <line>non e<unclear reason="illegible" extent= "5" unit="char"></unclear>come in a prima</line>
@@ -32,6 +33,5 @@
  <line>The<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear>living</del>of living flowers</line>
  <line>Among these tombs and ruins wild</line>
  <line><del rend="strikethrough">Could I believe that</del></line>
- 
-
+ </zone>
 </surface>
