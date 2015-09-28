@@ -18,9 +18,10 @@
 <line><line rend="indent 9"></line>child</line>
 <line>Where art thou<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars></unclear></del>my gentle<del rend="strikethrough">boy</del></line>
 Did live midst the loving woods
+<line>Let my</line>
 Let me think thy stunt fews
 Within its intent mild
-The cove of living flowers
-Among these tombs and ruins wild
-
-Could I believe that
+<line><line rend="indent 6"></line>love</line>
+<line>The<del rend="strikethrough" cove of living flowers
+<line>Among these tombs and ruins wild</line>
+<line><del rend="strikethrough">Could I believe that</del></line>
