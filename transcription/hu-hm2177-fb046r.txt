@@ -19,8 +19,9 @@
 <line>Where art thou<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>my gentle<del rend="strikethrough">boy</del></line>
 Did live midst the loving woods
 <line>Let my</line>
-Let me think thy stunt fews
-Within its intent mild
+<line><del rend="strikethrough">Whose<unclear reason="illegible">Child of</unclear></del>think thy spirit<unclear reason="illegible">held</unclear></line>
+<line><del rend="strikethrough"><unclear reason="illegible" extent="7" unit="chars"></unclear></del></line>
+<line>Within its<del rend="strikethrough"><unclear reason="illegible">play</unclear></del>intent mild</line>
 <line><line rend="indent 6"></line>love</line>
 <line>The<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear>living</del>of living flowers</line>
 <line>Among these tombs and ruins wild</line>
