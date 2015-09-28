@@ -4,5 +4,34 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
-    
+    <line>With what<unclear reason="illegible" extent= "6" unit="char"></unclear>I may say</line>
+ <line>Roma Roma Roma</line>
+ <line>non e<unclear reason="illegible" extent= "5" unit="char"></unclear>come in a prima</line>
+ <line>Thy took William</line>
+ <line><del rend="strikethrough"><unclear reason="illegible" extent="13" unit="chars"></unclear></del>there in whom</line>
+ <line>bright</line>
+ <line>Some<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>spirit lived, & died</line>
+ <line>That decaying<unclear reason="illegible" extent="5" chars></unclear>consume</line>
+ <line><unclear reason="illegible" extent="14" chars></unclear></line>
+ <line>Which its<del rend="strikethrough"><unclear reason="illegible" extent="11" unit="chars"></unclear></del>hid</line> 
+ <line><del rend="strikethrough">Too then the urn rind</del></line>
+ <line>There its as hes find a tomb</line>
+ <line>That he</line>
+ <line><del rend="strikethrough">Und</del>erneath this pyramid</line>
+ <line><del rend="strikethrough>Lie thy bones - if thou canst die</del></line>
+ <line><del rend="strikethrough>Rest thy bones - there is a shame</del></line>
+ <line><del rend="strikethrough>From thy</del></line>
+ <line><line rend="indent 9"></line>child</line>
+ <line>Where art thou<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>my gentle<del rend="strikethrough">boy</del></line>
+ <line><del rend="strikethrough"><unclear reason="illegible">Didst live into the living weeds</unclear></del></line>
+ <line>Let my</line>
+ <line><del rend="strikethrough">Whose<unclear reason="illegible">Child of</unclear></del>think thy spirit<unclear reason="illegible">held</unclear></line>
+ <line><del rend="strikethrough"><unclear reason="illegible" extent="7" unit="chars"></unclear></del></line>
+ <line>Within its<del rend="strikethrough"><unclear reason="illegible">play</unclear></del>intent mild</line>
+ <line><line rend="indent 6"></line>love</line>
+ <line>The<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear>living</del>of living flowers</line>
+ <line>Among these tombs and ruins wild</line>
+ <line><del rend="strikethrough">Could I believe that</del></line>
+ 
+
 </surface>
