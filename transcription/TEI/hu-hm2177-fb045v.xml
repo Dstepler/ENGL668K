@@ -11,7 +11,7 @@
 <zone type="main">
 <line>Thou art not... if a thing divine</line>
 <line>like thee, can die- thy funeral shrine</line>
-<line>Is thy mother's <del rend="strikethrough">heart</del> and mine</line>
+<line>Is thy mother's <del rend="strikethrough">heart</del> & mine</line>
 <add place="superlinear">heart</add>
 <add place="sublinear">grief</add>
 <space dim="vertical" unit="lines" extent="5"/>
