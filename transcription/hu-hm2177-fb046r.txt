@@ -1,5 +1,5 @@
-With what he is I may say
-Roma Roma Roma
+<line>With what <unclear reason="illegible" extent= "6" unit="char"></unclear>I may say</line>
+<line>Roma Roma Roma<line>
 none is come in a prime
 Thy took William there in where
 Some bright spirit lived & died
