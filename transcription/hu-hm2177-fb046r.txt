@@ -4,17 +4,19 @@
 <line>Thy took William</line>
 <line><del rend="strikethrough"><unclear reason="illegible" extent="13" unit="chars"></unclear></del>there in whom</line>
 <line>bright</line>
-<line>Some<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>spirit lived, & died<line>
+<line>Some<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>spirit lived, & died</line>
 <line>That decaying<unclear reason="illegible" extent="5" chars></unclear>consume</line>
 <line><unclear reason="illegible" extent="14" chars></unclear></line>
 <line>Which its<del rend="strikethrough"><unclear reason="illegible" extent="11" unit="chars"></unclear></del>hid</line> 
-Too then the urn rind
-I rue it as hed find a tomb
-Underneath this pyramid
-Rest thy bones - you here cannot die
-Rest thy bones - there is a shame
-
-Where art thou my gentle boy
+<line><del rend="strikethrough">Too then the urn rind</del></line>
+<line>There its as hes find a tomb</line>
+<line>That he</line>
+<line><del rend="strikethrough">Und</del>erneath this pyramid</line>
+<line><del rend="strikethrough>Lie thy bones - if thou canst die</del></line>
+<line><del rend="strikethrough>Rest thy bones - there is a shame</del></line>
+<line><del rend="strikethrough>From thy</del></line>
+<line><line rend="indent 9"></line>child</line>
+<line>Where art thou<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars></unclear></del>my gentle<del rend="strikethrough">boy</del></line>
 Did live midst the loving woods
 Let me think thy stunt fews
 Within its intent mild
