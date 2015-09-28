@@ -1,8 +1,12 @@
-Think not of gold or flattery vile
-He
+<zone type="left_margin" rotate="90">
+<line>Think not of gold or flattery vile</line>
+<line>He</line>
+</zone>
 <zone type="main">
 <line>Thou art not... if a thing divine</line>
 <line>like thee, can die- thy funeral shrine</line>
-,line>Is thy mother's <del rend="strikethrough">heart</del> & mine</line>
-
+<line>Is thy mother's <del rend="strikethrough">heart</del> & mine</line>
+<add place="sublinear">grief</add>
+<add place="superlinear">heart</add>
+<space dim="vertical" unit="lines" extent="5">
 z my twvLyxvwv L E I L 35
