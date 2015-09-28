@@ -6,8 +6,8 @@
 <line>bright</line>
 <line>Some<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>spirit lived, & died<line>
 <line>That decaying<unclear reason="illegible" extent="5" chars></unclear>consume</line>
-Which its his true majesty hid 
-
+<line><unclear reason="illegible" extent="14" chars></unclear></line>
+<line>Which its<del rend="strikethrough"><unclear reason="illegible" extent="11" unit="chars"></unclear></del>hid</line> 
 Too then the urn rind
 I rue it as hed find a tomb
 Underneath this pyramid
