@@ -20,14 +20,13 @@
  <line><del rend="strikethrough">Rest thy bones - there is a shame</del></line>
  <line><del rend="strikethrough">From thy</del></line>
  <line><line rend="indent 9"></line>child</line>
- <line>Where art thou<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>my gentle<del rend="strikethrough">boy</del></line>
+ <line>Where art thou<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>my gentle<mod><del rend="strikethrough">boy</del><add place="superlinear">child</add></mod></line>
  <line><del rend="strikethrough"><unclear reason="illegible">Didst live into the living weeds</unclear></del></line>
  <line>Let my</line>
- <line><del rend="strikethrough">Whose<unclear reason="illegible">Child of</unclear></del>think thy spirit<unclear reason="illegible">held</unclear></line>
- <line><del rend="strikethrough"><unclear reason="illegible" extent="7" unit="chars"></unclear></del></line>
- <line>Within its<del rend="strikethrough"><unclear reason="illegible">play</unclear></del>intent mild</line>
+ <line><mod><del rend="strikethrough">Whose<unclear reason="illegible">Child of</unclear></del><add place="superlinear">Let my</add></mod>think thy spirit<unclear reason="illegible">held</unclear></line>
+ <line>Within its<mod><del rend="strikethrough"><unclear reason="illegible">play</unclear></del><add place="superlinear"><del rend="strikethrough"><unclear reason="illegible" extent="7" unit="chars"></unclear></del></add></mod>intent mild</line>
  <line><line rend="indent 6"></line>love</line>
- <line>The<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear>living</del>of living flowers</line>
+ <line>The<mod><del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear>living</del><add place="superlinear">love</add></mod>of living<mod><del rend="strikethrough">flowers</del><add place="superlinear"><unclear reason="illegible" extent="5" unit="chars"></unclear></add><add place="sublinear">weeds</add></mod></line>
  <line>Among these tombs and ruins wild</line>
  <line><del rend="strikethrough">Could I believe that</del></line>
  </zone>
