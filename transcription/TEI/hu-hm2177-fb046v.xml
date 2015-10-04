@@ -7,16 +7,16 @@
 <zone type="main">
 <line>Originality does not consist</line> 
 <line><del rend="strikethrough">in moods, in deeds, or stories</del></line>
-<line>Or combinations of mind &</line>
+<line>Or combinations of mind &amp;</line>
 <line>Language different from those</line>
 <line><damage agent="faded"><unclear>Which</unclear></damage> have gone before, it</line>
-<line>Does not consist only <damage agent="inkblot><unclear>in living</unclear></damanage></line>
+<line>Does not consist only <damage agent="inkblot"><unclear extent="2" unit="words"></unclear></damage></line>
 <line>Or all in themes</line>
 </zone>
-<zone type="main" rotate="180">
+<zone type="bottom" rotate="180">
 <line><del rend="strikethrough">A melancholy gladness</del></line>
 <line>let <damage agent="faded"><unclear>me think</unclear></damage> that this low <damage agent="faded"><unclear>kind</unclear></damage></line>
-<line>Of the <del rend="strikethrough>living</del> <del rend="strikethrough>forgetting</del> <add place="sublinear"><damage agent="faded"><unclear reason="illegible" extent="2" unit="words"></unclear></damage></add> that things of sunny gap</line>
+<line>Of the <del rend="strikethrough">living</del> <del rend="strikethrough">forgetting</del> <add place="sublinear"><damage agent="faded"><unclear reason="illegible" extent="2" unit="words"></unclear></damage></add> that things of sunny gap</line>
 <line><del rend="strikethrough">An unknown power they</del></line>
 <line>Debts their hues of saints may heap</line> 
 <line>A portion</line>
