@@ -8,10 +8,10 @@
     <line>With what<unclear reason="illegible" extent= "6" unit="char"></unclear>I may say</line>
  <line>Roma Roma Roma</line>
  <line>non e<unclear reason="illegible" extent= "5" unit="char"></unclear>come in a prima</line>
- <line>Thy took William</line>
- <line><del rend="strikethrough"><unclear reason="illegible" extent="13" unit="chars"></unclear></del>there in whom</line>
+ <line><mod><del rend="strikethrough"><unclear reason="illegible" extent="13" unit="chars"></unclear></del><add place="superlinear">Thy took William</add></mod>there in whom</line>
  <line>bright</line>
- <line>Some<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>spirit lived, &amp; died</line>
+ <line>Some<mod><del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>
+    <add place="superlinear">bright</add>spirit lived, &amp; died</line>
  <line>That decaying<unclear reason="illegible" extent="5" chars></unclear>consume</line>
  <line><unclear reason="illegible" extent="14" chars></unclear></line>
  <line>Which its<del rend="strikethrough"><unclear reason="illegible" extent="11" unit="chars"></unclear></del>hid</line> 
