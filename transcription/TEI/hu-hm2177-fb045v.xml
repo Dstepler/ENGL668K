@@ -11,11 +11,11 @@
 <zone type="main">
 <line>Thou art not... if a thing divine</line>
 <line>like thee, can die- thy funeral shrine</line>
-<line>Is thy mother's <del rend="strikethrough">heart</del> & mine</line>
+<line>Is thy mother's <mod><del rend="strikethrough">heart</del> 
 <add place="superlinear">heart</add>
-<add place="sublinear">grief</add>
+<add place="sublinear">grief</add></mod>&amp; mine</line>
 <space dim="vertical" unit="lines" extent="5"/>
 <line>μνημη των αγαθων αeι θαλης</line>
-<unclear reason="illegible">WILLIAM</unclear>
+<line><unclear reason="illegible">WILLIAM</unclear><unclear reason="illegible" extent="2" unit="chars"</unclear></line>
 </zone>
 </surface>
