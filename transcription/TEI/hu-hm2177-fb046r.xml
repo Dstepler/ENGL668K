@@ -10,18 +10,15 @@
  <line>non e<unclear reason="illegible" extent= "5" unit="char"></unclear>come in a prima</line>
  <line><mod><del rend="strikethrough"><unclear reason="illegible" extent="13" unit="chars"></unclear></del><add place="superlinear">Thy took William</add></mod>there in whom</line>
  <line>bright</line>
- <line>Some<mod><del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>
-    <add place="superlinear">bright</add>spirit lived, &amp; died</line>
+ <line>Some<mod><del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del><add place="superlinear">bright</add></mod>spirit lived, &amp; died</line>
  <line>That decaying<unclear reason="illegible" extent="5" chars></unclear>consume</line>
- <line><unclear reason="illegible" extent="14" chars></unclear></line>
- <line>Which its<del rend="strikethrough"><unclear reason="illegible" extent="11" unit="chars"></unclear></del>hid</line> 
+ <line>Which its<mod><del rend="strikethrough"><unclear reason="illegible" extent="11" unit="chars"></unclear></del><add place="superlinear"><unclear reason="illegible" extent="14" chars></unclear></add></mod>hid</line> 
  <line><del rend="strikethrough">Too then the urn rind</del></line>
  <line>There its as hes find a tomb</line>
- <line>That he</line>
- <line><del rend="strikethrough">Und</del>erneath this pyramid</line>
- <line><del rend="strikethrough>Lie thy bones - if thou canst die</del></line>
- <line><del rend="strikethrough>Rest thy bones - there is a shame</del></line>
- <line><del rend="strikethrough>From thy</del></line>
+ <line><mod><del rend="strikethrough">Und</del><add place="superlinear">That he</add></mod>erneath this pyramid</line>
+ <line><del rend="strikethrough">Lie thy bones - if thou canst die</del></line>
+ <line><del rend="strikethrough">Rest thy bones - there is a shame</del></line>
+ <line><del rend="strikethrough">From thy</del></line>
  <line><line rend="indent 9"></line>child</line>
  <line>Where art thou<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>my gentle<del rend="strikethrough">boy</del></line>
  <line><del rend="strikethrough"><unclear reason="illegible">Didst live into the living weeds</unclear></del></line>
