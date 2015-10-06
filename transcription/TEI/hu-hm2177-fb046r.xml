@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="schema/shelley-godwin-page.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="schema/shelley-godwin-page.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
-    xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
+<surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
     <zone type="main">
     <line>With what<unclear reason="illegible" extent= "6" unit="char"></unclear>I may say</line>
@@ -22,11 +21,9 @@
  <line><del rend="strikethrough">Lie thy bones - if thou canst die</del></line>
  <line><del rend="strikethrough">Rest thy bones - there is a shame</del></line>
  <line><del rend="strikethrough">From thy</del></line>
- <line rend="indent9">child</line>
  <line>Where art thou<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>
  my gentle<mod><del rend="strikethrough">boy</del><add place="superlinear">child</add></mod></line>
  <line><del rend="strikethrough"><unclear reason="illegible">Didst live into the living weeds</unclear></del></line>
- <line>Let my</line>
  <line><mod><del rend="strikethrough">Whose<unclear reason="illegible">Child of</unclear></del>
  <add place="superlinear">Let my</add></mod>think thy spirit<unclear reason="illegible">held</unclear></line>
  <line>Within its<mod><del rend="strikethrough"><unclear reason="illegible">play</unclear></del>
