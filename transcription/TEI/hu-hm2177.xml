@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title>My lost William</title>
             </titleStmt>
             <editionStmt>
                 <edition>Shelley-Godwin Archive edition, <date>2015</date>
@@ -28,13 +28,13 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
+                    <msIdentifier>MS HM 2177
                         <altIdentifier>
                             <idno></idno>
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <msItem>
+                        <msItem><!-- a fragmented poem -->
                             <bibl>
                                 <title></title>
                             </bibl>
