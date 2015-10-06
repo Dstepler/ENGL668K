@@ -6,7 +6,7 @@
  <zone type="main">
  <line>With what<unclear reason="illegible" extent="6" unit="chars"></unclear>I may say</line>
  <line>Roma Roma Roma</line>
- <line>non e<unclear reason="illegible" extent="5" unit="char"></unclear>come in a prima</line>
+ <line>non e<unclear reason="illegible" extent="5" unit="chars"></unclear>come in a prima</line>
  <line><del rend="strikethrough"><unclear reason="illegible" extent="13" unit="chars"></unclear></del>
  <add place="superlinear">Thy took William</add>there in whom</line>
  <line>Some<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>
@@ -28,8 +28,8 @@
  <line>Within its<del rend="strikethrough"><unclear reason="illegible">play</unclear></del>
  <add place="superlinear"><del rend="strikethrough"><unclear reason="illegible" extent="7" unit="chars"></unclear></del></add>intent mild</line>
  <line>The<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear>living</del>
- <add place="superlinear">love</add>of living<mod><del rend="strikethrough">flowers</del><add place="superlinear">
-     <unclear reason="illegible" extent="5" unit="chars"></unclear></add><add place="sublinear">weeds</add></mod></line>
+ <add place="superlinear">love</add>of living<del rend="strikethrough">flowers</del><add place="superlinear">
+     <unclear reason="illegible" extent="5" unit="chars"></unclear></add><add place="sublinear">weeds</add></line>
  <line>Among these tombs and ruins wild</line>
  <line><del rend="strikethrough">Could I believe that</del></line>
  </zone>
