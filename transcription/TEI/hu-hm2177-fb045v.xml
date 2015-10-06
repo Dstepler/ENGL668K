@@ -41,6 +41,6 @@
 <add place="sublinear">grief</add></mod>&amp; mine</line>
 <space dim="vertical" unit="lines" extent="5"/>
 <line>μνημη των αγαθων αeι θαλης</line>
-<line><unclear reason="illegible">WILLIAM</unclear></line>
+<line><unclear reason="illegible" extent="8" unit="chars"></unclear></line>
 </zone>
 </surface>
