@@ -7,29 +7,69 @@
  <line>With what<unclear reason="illegible" extent="6" unit="chars"></unclear>I may say</line>
  <line>Roma Roma Roma</line>
  <line>non e<unclear reason="illegible" extent="5" unit="chars"></unclear>come in a prima</line>
- <line><del rend="strikethrough"><unclear reason="illegible" extent="13" unit="chars"></unclear></del>
- <add place="superlinear">Thy took William</add>there in whom</line>
- <line>Some<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>
- <add place="superlinear">bright</add>spirit lived, &amp; died</line>
+ <line>
+  <mod>
+     <del rend="strikethrough"><unclear reason="illegible" extent="13" unit="chars"></unclear></del>
+     <add place="superlinear">Thy took William</add>
+  </mod>
+ there in whom</line>
+ <line>Some
+   <mod>
+     <del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>
+     <add place="superlinear">bright</add>
+   </mod>
+ spirit lived, &amp; died</line>
  <line>That decaying<unclear reason="illegible" extent="5" unit="chars"></unclear>consume</line>
- <line>Which its<del rend="strikethrough"><unclear reason="illegible" extent="11" unit="chars"></unclear></del>
- <add place="superlinear"><unclear reason="illegible" extent="14" unit="chars"></unclear></add>hid</line> 
+ <line>Which its
+    <mod>
+      <del rend="strikethrough"><unclear reason="illegible" extent="11" unit="chars"></unclear></del>
+      <add place="superlinear"><unclear reason="illegible" extent="14" unit="chars"></unclear></add>
+    </mod>
+ hid</line> 
  <line><del rend="strikethrough">Too then the urn rind</del></line>
  <line>There its as hes find a tomb</line>
- <line><del rend="strikethrough">Und</del><add place="superlinear">That he</add>erneath this pyramid</line>
+ <line>
+   <mod>
+     <del rend="strikethrough">Und</del>
+     <add place="superlinear">That he</add>
+   </mod>
+ erneath this pyramid</line>
  <line><del rend="strikethrough">Lie thy bones - if thou canst die</del></line>
  <line><del rend="strikethrough">Rest thy bones - there is a shame</del></line>
  <line><del rend="strikethrough">From thy</del></line>
- <line>Where art thou<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>
- my gentle<del rend="strikethrough">boy</del><add place="superlinear">child</add></line>
+ <line>Where art thou
+     <del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del>
+     my gentle
+     <mod>
+        <del rend="strikethrough">boy</del>
+        <add place="superlinear">child</add>
+      </mod>
+ </line>
  <line><del rend="strikethrough"><unclear reason="illegible">Didst live into the living weeds</unclear></del></line>
- <line><del rend="strikethrough">Whose<unclear reason="illegible">Child of</unclear></del>
- <add place="superlinear">Let my</add>think thy spirit<unclear reason="illegible">held</unclear></line>
+ <line>
+     <del rend="strikethrough">Whose<unclear reason="illegible">Child of</unclear></del>
+     <mod>
+        <add place="superlinear">Let my</add>
+        think thy spirit<unclear reason="illegible">held</unclear>
+     </mod>
+ </line>
  <line>Within its<del rend="strikethrough"><unclear reason="illegible">play</unclear></del>
- <add place="superlinear"><del rend="strikethrough"><unclear reason="illegible" extent="7" unit="chars"></unclear></del></add>intent mild</line>
+          <mod>
+          <add place="superlinear">
+           <del rend="strikethrough">
+            <unclear reason="illegible" extent="7" unit="chars"></unclear>
+           </del>
+          </add>
+          </mod>
+ intent mild</line>
  <line>The<del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear>living</del>
- <add place="superlinear">love</add>of living<del rend="strikethrough">flowers</del><add place="superlinear">
-     <unclear reason="illegible" extent="5" unit="chars"></unclear></add><add place="sublinear">weeds</add></line>
+       <mod>
+        <add place="superlinear">love</add>
+        of living<del rend="strikethrough">flowers</del>
+        <add place="superlinear"><unclear reason="illegible" extent="5" unit="chars"></unclear></add>
+        <add place="sublinear">weeds</add>
+       </mod>
+ </line>
  <line>Among these tombs and ruins wild</line>
  <line><del rend="strikethrough">Could I believe that</del></line>
  </zone>
