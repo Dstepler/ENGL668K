@@ -5,8 +5,8 @@
     xml:id="hu-hm2177-fb045v" ulx="0" uly="0" lrx="5412" lry="7216">
     <graphic url="../../images/hu-hm2177-fb045v.jpg"/>
 <zone type="left_margin" rotate="90">
-<line>Think not of gold or flattery vile</line>
-<line>He</line>
+<line><del rend="strikethrough">Think not of gold or</del>flattery vile</line>
+<line><del rend="strikethrough">He</del></line>
 </zone>
 <zone type="main">
 <line>Thou art not... if a thing divine</line>
