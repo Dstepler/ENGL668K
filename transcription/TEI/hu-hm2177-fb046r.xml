@@ -12,11 +12,11 @@
      <del rend="strikethrough"><unclear reason="illegible" extent="13" unit="chars"></unclear></del>
      <add place="superlinear">My lost William,</add>
   </mod>
- thou in whom</line>
+ <line rend="indent 6"></line>thou in whom</line>
  <line>Some
    <mod>
-     <del rend="strikethrough">sweet</del>
      <add place="superlinear">bright</add>
+     <del rend="strikethrough">sweet</del>
    </mod>
  spirit lived, &amp; did</line>
  <line>That decaying<unclear reason="illegible" extent="5" unit="chars"></unclear>consume</line>
