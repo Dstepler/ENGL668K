@@ -4,7 +4,7 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#" xml:id="hu-hm2177-fb046r" ulx="0" uly="0" lrx="5412" lry="7216">
  <graphic url="../../images/hu-hm2177-fb046r.jpg"/>
  <zone type="main">
- <line>With what<unclear reason="illegible" extent="6" unit="chars"></unclear> I may say</line>
+  <line>With what<unclear reason="illegible" extent="6" unit="chars"></unclear> I may say</line>
  <line>Roma Roma Roma</line>
  <line>non e piu come era prima</line>
  <line>
@@ -19,7 +19,7 @@
      <del rend="strikethrough">sweet</del>
    </mod>
  spirit lived, &amp; did</line>
- <line>That decaying<unclear reason="illegible" extent="5" unit="chars"></unclear> consume</line>
+ <line>That decaying<unclear reason="illegible" extent="5" unit="chars"></unclear>consume</line>
  <line>Which its
     <mod>
       <del rend="strikethrough"><unclear reason="illegible" extent="11" unit="chars"></unclear></del>
@@ -31,12 +31,12 @@
  <line>
    <mod>
      <del rend="strikethrough">Und</del>
-     <add place="superlinear">That be</add>
+     <add place="superlinear">That he</add>
    </mod>
  erneath this pyramid</line>
  <line><del rend="strikethrough">Lie thy bones - if thou canst die</del></line>
  <line>Rest thy bones - there is a shrine</line>
- <line><del rend="strikethrough">From thy</del></line>
+ <line><del rend="strikethrough">From thy                           </del></line>
  <line>Where art thou
      <del rend="strikethrough"><unclear reason="illegible"> gone</unclear></del>
      my gentle
@@ -66,11 +66,11 @@
        <mod>
         <add place="superlinear">love</add>
         of living<del rend="strikethrough">flowers</del>
-        <add place="superlinear"><unclear reason="illegible">grass</unclear></add>
-        <add place="sublinear"> &amp; weeds </add>
+        <add place="superlinear"><unclear reason="illegible" extent="5" unit="chars"></unclear></add>
+        <add place="sublinear">weeds</add>
        </mod>
  </line>
- <line>Among these tombs &amp; ruins wild</line>
+ <line>Among these tombs and ruins wild</line>
  <line><del rend="strikethrough">Could I believe that</del></line>
  </zone>
 </surface>
