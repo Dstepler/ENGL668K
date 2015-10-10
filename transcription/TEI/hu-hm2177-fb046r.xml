@@ -19,7 +19,7 @@
      <del rend="strikethrough">sweet</del>
    </mod>
  spirit lived, &amp; did</line>
- <line>That decaying<unclear reason="illegible" extent="5" unit="chars"></unclear>consume</line>
+ <line>That decaying<unclear reason="illegible" extent="5" unit="chars"></unclear> consume</line>
  <line>Which its
     <mod>
       <del rend="strikethrough"><unclear reason="illegible" extent="11" unit="chars"></unclear></del>
@@ -31,7 +31,7 @@
  <line>
    <mod>
      <del rend="strikethrough">Und</del>
-     <add place="superlinear">That he</add>
+     <add place="superlinear">That be</add>
    </mod>
  erneath this pyramid</line>
  <line><del rend="strikethrough">Lie thy bones - if thou canst die</del></line>
@@ -66,7 +66,7 @@
        <mod>
         <add place="superlinear">love</add>
         of living<del rend="strikethrough">flowers</del>
-        <add place="superlinear"><unclear reason="illegible"> grass</unclear></add>
+        <add place="superlinear"><unclear reason="illegible">grass</unclear></add>
         <add place="sublinear"> &weeds;</add>
        </mod>
  </line>
