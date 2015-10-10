@@ -35,8 +35,8 @@
    </mod>
  erneath this pyramid</line>
  <line><del rend="strikethrough">Lie thy bones - if thou canst die</del></line>
- <line><del rend="strikethrough">Rest thy bones - there is a shrine</del></line>
- <line><del rend="strikethrough">From thy</del></line>
+ <line>Rest thy bones - there is a shrine</line>
+ <line><del rend="strikethrough">From thy                           </del></line>
  <line>Where art thou
      <del rend="strikethrough"><unclear reason="illegible"> gone</unclear></del>
      my gentle
@@ -50,7 +50,7 @@
      <del rend="strikethrough">Whose<unclear reason="illegible">Child of</unclear></del>
      <mod>
         <add place="superlinear">Let my</add>
-        think thy spirit<unclear reason="illegible">held</unclear>
+        think thy spirit<unclear reason="illegible"> held</unclear>
      </mod>
  </line>
  <line>Within its<del rend="strikethrough"><unclear reason="illegible">play</unclear></del>
