@@ -36,7 +36,7 @@
  erneath this pyramid</line>
  <line><del rend="strikethrough">Lie thy bones - if thou canst die</del></line>
  <line>Rest thy bones - there is a shrine</line>
- <line><del rend="strikethrough">From thy                           </del></line>
+ <line><del rend="strikethrough">From thy</del></line>
  <line>Where art thou
      <del rend="strikethrough"><unclear reason="illegible"> gone</unclear></del>
      my gentle
@@ -66,11 +66,11 @@
        <mod>
         <add place="superlinear">love</add>
         of living<del rend="strikethrough">flowers</del>
-        <add place="superlinear"><unclear reason="illegible" extent="5" unit="chars"></unclear></add>
-        <add place="sublinear">weeds</add>
+        <add place="superlinear"><unclear reason="illegible"> grass</unclear></add>
+        <add place="sublinear"> &weeds;</add>
        </mod>
  </line>
- <line>Among these tombs and ruins wild</line>
+ <line>Among these tombs &amp; ruins wild</line>
  <line><del rend="strikethrough">Could I believe that</del></line>
  </zone>
 </surface>
